@@ -64,6 +64,3 @@ A comprehensive capstone involving advanced networking implementations.
 <!--### 💻 Classroom Development
 Continuous code updates and workshop scripts.
 - **Workshop Repo:** [network-class](#)-->
-
----
-*Created by Sorawit T. - 2026*
